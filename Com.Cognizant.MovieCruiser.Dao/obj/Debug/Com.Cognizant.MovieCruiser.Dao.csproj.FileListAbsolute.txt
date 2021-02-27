@@ -1,0 +1,11 @@
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csprojAssemblyReference.cache
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Dao.dll
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Model.dll
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Utility.dll
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Model.pdb
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Utility.pdb
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csproj.CopyComplete
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.dll
+C:\Users\Sireesha\OneDrive\Desktop\Training\AllFinalChecks\ASP.NETFinalCheck\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
